@@ -58,13 +58,6 @@ This bot is written in [NodeJS](https://nodejs.org/) using the [Discord.js](http
 - {url} - Live video URL
 - \n - For new line
 
-# Licensing / Liability
-![License](https://camo.githubusercontent.com/9c2f6e7598dd0b233fef502bda53a4d7b41a5c6d30d41d9ccb140dc25d63ab4c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6b61626969512f46424b)
-
-VStreams is licensed under the GPL 3.0 license, viewable in the [LICENSE](https://github.com/Sakamuraa/VStreams/blob/main/LICENSE) file.
-
-Some commands may echo user input. No user-created content should be considered as an opinion or statement from myself.
-
 # Developer
 <h3 align="left">Support the developer</h3>
 <div align="left">
