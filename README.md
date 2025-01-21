@@ -21,7 +21,7 @@ VStreams covers a pretty wide range of functionality, so not all features are ne
   - ***Livestream/Video notifications***
     - Post information on specific streams while they are live
     - Optionally mention a role when they become live
-    - Currently supports YouTube livestreams/video uploads.
+    - Currently supports YouTube livestreams.
 
   - ***Social media feed update notifications***
     - Post information when specific users post a Tweet!
