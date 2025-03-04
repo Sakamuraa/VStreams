@@ -61,6 +61,6 @@ This bot is written in [NodeJS](https://nodejs.org/) using the [Discord.js](http
 # Developer
 <h3 align="left">Support the developer</h3>
 <div align="left">
-  <p> <a href="https://tako.id/Sakamura"><img src="https://assets.tako.id/logo.png" height="30" alt="tako" /></a> &#10240&#10240 <a href="https://trakteer.id/sakamura"><img src="https://trakteer.id/images/mix/navbar-logo-lite.png" height="30" alt="trakteer" /></a> </p>
+  <p> <a href="https://tako.id/Sakamura" target="_blank"><img src="https://assets.tako.id/logo.png" height="30" alt="tako" /></a> &#10240&#10240 <a href="https://trakteer.id/sakamura" target="_blank"><img src="https://trakteer.id/images/mix/navbar-logo-lite.png" height="30" alt="trakteer" /></a> </p>
 </div> <br>
-<p class="font-class">The developer of this <a href="https://discord.com/">Discord</a> bot is <a href="https://sakamura.dynv6.net/">Sakamura</a> with <a href="https://discordapp.com/users/725988982478995517">moru</a>.</p>
+<p class="font-class">The developer of this <a href="https://discord.com/">Discord</a> bot is <a href="https://github.com/Sakamuraa">Sakamura</a> with <a href="https://discordapp.com/users/725988982478995517">moru</a>.</p>
