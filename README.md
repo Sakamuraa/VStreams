@@ -1,6 +1,6 @@
 ###
 # VStreams <br>
-<img src="https://sakamura.dynv6.net/images/VStreams.png" width="100" height="100"> <br>
+<img src="https://i.imgur.com/l9AxSYS.png" width="100" height="100"> <br>
 VStreams is a publicly-hosted chat bot for your [Discord](https://discord.com/) server. <br>
 # Add VStreams to your Discord server
 VStreams is now available for invite and public use, feel free to use it or share it. <br><br>
