@@ -36,7 +36,7 @@ VStreams covers a pretty wide range of functionality, so not all features are ne
     - Unlimited mumber of use
 
 # Development 
-![nodejs-lts](https://img.shields.io/badge/Node.js-LTS-brightgreen.svg?logo=node.js) ![last-commit](https://img.shields.io/badge/Last%20Commit-March-blue.svg) <br><br>
+![nodejs-lts](https://img.shields.io/badge/node.js-v22-blue.svg?logo=node.js) ![last-commit](https://img.shields.io/github/last-commit/Sakamuraa/vstreams) <br><br>
 ...and more to come! There is plenty planned that we have created, just waiting for the time to execute it.
 
 Feature ideas/requests, issue reports, and general questions are welcome in the bot's [support server](https://discord.gg/Vjsgu3c8B4).
