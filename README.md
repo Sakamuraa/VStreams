@@ -47,7 +47,7 @@ This bot is written in [NodeJS](https://nodejs.org/) using the [Discord.js](http
 ## YouTube Configuration
 `ytconfig track`, `ytconfig edit`, `ytconfig untrack`, `ytconfig settings`, `ytconfig upcoming`
 ## Twitter Configuration
-`posts track`, `posts edit`, `posts features`, `posts untrack`, `posts settings`, 
+`posts track`, `posts edit`, `posts features`, `posts untrack`, `posts settings`
 ## Miscellaneous
 `afk set`, `afk list`, `info help`, `info about`, `info ping`, `jointocreate create`, `jointocreate list`, `jointocreate remove`, `reactionrole add`, `reactionrole remove`
 
