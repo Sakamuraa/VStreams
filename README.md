@@ -26,7 +26,7 @@ VStreams covers a pretty wide range of functionality, so not all features are ne
   - ***Social media feed update notifications***
     - Post information when specific users post a Tweet!
     - Available feeds for tracking are highly limited in 2024, as Twitter has made it very difficult to access their data.
-    - Currently supports Twitter (limited)
+    - Currently supports Twitter (Twitter Tracker currently disabled due to few reason, more information can be found out in our [support server](https://discord.gg/Vjsgu3c8B4) or head to this [announcement](https://discord.com/channels/1240207231866376265/1244485676108484629/1352081563210481664))
 - ## General Utility
   - ***Join To Create***
     - Configure join-to-create voice channel in you Discord server
